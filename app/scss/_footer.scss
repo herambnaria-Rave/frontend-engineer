@@ -7,6 +7,8 @@
       font-size: 0.95em;
       color: $greyText;
       line-height: 1.5;
+      padding-bottom: 0.75em;
+      text-align: center;
     }
     .footer-links {
       list-style: none;
@@ -14,6 +16,7 @@
       padding-left: 0;
       font-size: 0;
       white-space: nowrap;
+      margin-top: 0.5em;
       li {
         font-size: 0.95rem;
         display: inline;
@@ -39,6 +42,8 @@
       align-items: center;
       .footer-message {
         margin-right: 1.5em;
+        padding-bottom: 0;
+        text-align: left;
       }
     }
   }
@@ -48,6 +53,8 @@
     .footer-content {
       .footer-message {
         margin-right: 2em;
+        padding-bottom: 0;
+        text-align: left;
       }
     }
   }
